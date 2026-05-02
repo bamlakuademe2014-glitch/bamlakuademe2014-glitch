@@ -1,4 +1,4 @@
-# Bamlaku Ademe
+## Bamlaku Ademe
 
 Computer Science Student & Android Developer  
 Based in Dire Dawa, Ethiopia.
