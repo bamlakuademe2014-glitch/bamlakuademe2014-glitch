@@ -1,16 +1,26 @@
-## my name is bamlaku👋
+# Bamlaku Ademe
 
-<!--
-**bamlakuademe2014-glitch/bamlakuademe2014-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Student & Android Developer  
+Based in Dire Dawa, Ethiopia.
 
-Here are some ideas to get you started:
+## About Me
+- Undergraduate Computer Science student
+- Focused on Android development (Java/Kotlin)
+- Passionate about learning and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Android Development
+- Git & GitHub
+- Basic Web Development (HTML, CSS, JavaScript)
+
+## Projects
+- Various Android apps (personal & academic)
+
+
+## Contact
+- Email: bamlakuademe2014@gmail.com 
+- Phone: +251-914-88-86-74 
+- Telegram: @bam1919 
+
+## Fun Fact
+If I can imagine it, I can build it!
